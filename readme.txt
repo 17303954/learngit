@@ -5,7 +5,7 @@ Git has a mutable index called stage.
 
 Git tracks changes.
 
-
+can i undo something? 
 
 
 a little bit complicated.
